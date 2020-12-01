@@ -1,0 +1,14 @@
+{
+  "name": "js-data-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sungik-choi/js-data-structure",
+  "author": "최성익 <sungik.dev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
